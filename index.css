@@ -1,0 +1,91 @@
+*{
+    font-family: Arial, sans-serif;
+
+}
+.container{
+    background-image: url(tree.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container1{
+    color: rgb(255, 253, 253);
+    display: flex;
+    margin-left: 80px;    
+ }
+ .container1 .column1{
+    color: rgb(216, 77, 13);
+ }
+ .i{
+    color: darkorange;
+ }
+ nav {
+     margin: 20px;
+     margin-left: 650px;
+     margin-top:28px;
+ }
+ nav a {
+     margin:0 20px;
+     text-decoration: none;
+     color: #f5efef;
+ }
+ .row1{
+     display: flex;
+     
+ }
+ .container1 .row2{
+    display: flex;
+    margin-top: 22px;
+ }
+.container2{
+    color: #f5efef;
+    margin-left: 90px;
+    margin-right: 600px;
+    margin-top: 200px;
+    font-size: 20px;
+}
+.container4{
+    display: flex;
+}
+.container3{
+    color: #f5efef;
+    border: 1px solid #080808;
+    text-align: center;
+    padding: 40px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+.login{
+    border: 1px solid #ddd;
+    background-color: rgb(247, 243, 243);
+    color: darkorange;
+    border-radius: 10px;
+    width: 100%;
+    margin-right:100px;
+
+}
+.container1 .row2 .column2 button{
+    background-color: rgb(216, 77, 13);
+    color: #ddd;
+    
+
+}
+.k button{
+    background-color: darkorange;
+    color: #ddd; 
+    padding: 10px;
+    width: 35%;
+    border-radius: 15px;
+}
+.j button{
+    background-color: darkorange;
+    color: #ddd; 
+    width: 100%;
+    padding: 5px;
+     border-radius: 15px;
+}
+.container3 .row1 .column1 input{
+    padding:10px ;
+    width: 300px;
+}
